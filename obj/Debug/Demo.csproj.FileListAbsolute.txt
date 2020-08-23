@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\SharpDevelop Projects\Fragmentations\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\Fragmentations\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\Fragmentations\Demo\bin\Debug\Demo.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\Fragmentations\Demo\bin\Debug\Demo.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\Fragmentations\Demo\obj\Debug\Demo.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\Fragmentations\Demo\obj\Debug\Demo.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\Fragmentations\Demo\obj\Debug\Demo.MainForm.resources
